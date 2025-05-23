@@ -1,43 +1,151 @@
 # Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+# DATE: 03.04.2025
+
+# REGISTER NUMBER : 212222060185
+
+## INTRODUCTION:
+
+Scenario-Based Report Development involves crafting reports based on simulated or real-world situations. These scenarios can represent challenges, incidents, case studies, or strategic decisions relevant to a subject area (e.g., business, education, healthcare).
+
+Diverse Prompting Techniques are varied types of questions, cues, or instructions used to elicit comprehensive responses. These techniques help structure the analysis, direct focus, and encourage critical thinking.
+
+## Objectives
+
+•	Encourage critical thinking and problem-solving
+
+•	Enhance decision-making skills
+
+•	Support deep reflection using targeted prompts
+
+•	Improve writing and reporting quality
+
+•	Simulate real-world application of theoretical knowledge
+
+## Types of Prompting Techniques
+
+1.	Descriptive Prompts
+
+Ask the learner to describe a scenario or process.
+
+Example: “Describe what happened in the scenario involving the cybersecurity breach.”
+
+2.	Analytical Prompts
+   
+Encourage analysis of causes, effects, or relationships.
+
+Example: “Why did the customer service failure occur? What were the contributing factors?”
+
+3.	Evaluative Prompts
+
+Promote judgment about actions or outcomes.
+
+Example: “Evaluate the response of the management team. Was it effective?”
+
+4.	Predictive Prompts
+   
+Ask the user to anticipate outcomes or future implications.
+
+Example: “What are the likely consequences if the same strategy is used again?”
+
+5.	Reflective Prompts
+   
+Encourage personal insight or lessons learned.
+
+Example: “What would you do differently if you were the project lead?”
+
+6.	Creative/Scenario Expansion Prompts
+   
+Prompt the user to extend or modify the scenario.
+
+Example: “How would the situation change if the budget was doubled?
+
+## Scenario
+
+A travel company is creating a report to inform their customers about sustainable travel practices.
+
+The company wants a section explaining how tourists can reduce their environmental impact.
+
+We’ll apply three types of prompting to see how the responses vary in depth, focus, and clarity.
+Example Scenario (Education Sector)
+
+Scenario: A high school is seeing a sharp decline in student performance after switching to hybrid learning.
 
 
-Main Objectives:
+## Prompts Used:
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+•	Descriptive: Describe the changes in student attendance and engagement.
 
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
+•	Analytical: What are the root causes of the performance drop?
 
-Persona and Context Prompts:
+•	Evaluative: Was the hybrid model implemented effectively?
 
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
+•	Reflective: What would you recommend to the school board?
 
-Result: The various types of Prompts are executed successfully with generated the report.
+## Prompts and Responses
+
+1. Direct Prompting
+   
+Prompt: “Explain how tourists can reduce their environmental impact when traveling.”
+
+Response:
+
+"Tourists can reduce their environmental impact by using public transportation instead of renting cars, staying in eco-friendly accommodations, minimizing plastic use, conserving water, and respecting local wildlife and natural habitats. Sustainable travel also includes supporting local businesses and reducing energy consumption wherever possible."
+
+Analysis:
+
+- Strengths: Provides a quick, high-level overview of practices.
+- Limitations: Lacks specific examples, context, or actionable details. The response may seem too general for a report aimed at educating customers.
+
+2. Iterative Prompting
+   
+Initial Prompt: “Explain how tourists can reduce their environmental impact when traveling.”
+Follow-Up Prompt: “Provide more examples and specific actions tourists can take.” 
+
+Response:
+
+"Tourists can reduce their environmental impact by choosing eco-friendly transportation options like trains, buses, or electric vehicles when available. Staying at accommodations certified for environmental responsibility, such as LEED-certified hotels or eco-lodges, can also reduce energy use. 
+
+Packing reusable items like water bottles, bags, and utensils minimizes plastic waste. Tourists should conserve resources by turning off lights and air conditioning when leaving their rooms, using towels and linens for multiple days, and taking shorter showers. Supporting local and small businesses, especially those with sustainable practices, also reduces the carbon footprint associated with international supply chains."
+
+Analysis:
+
+- Strengths: The follow-up prompt encourages more detail and specific examples, making the response more useful and engaging for readers.
+  
+- Limitations: Requires multiple interactions to achieve a comprehensive answer, which can be time-consuming if many refinements are needed.
+
+3. Guided Prompting
+   
+Prompt: “Write a paragraph for a travel report that explains five specific actions tourists can take to reduce their environmental impact. Use a friendly and informative tone.”
+
+Response:
+
+"When traveling, tourists can reduce their environmental impact in a few easy ways. First, opt for public transportation, biking, or walking over renting a car, which lowers emissions. Second, choose eco-friendly hotels that implement green practices, like energy-efficient lighting and water-saving fixtures. Third, pack a reusable water bottle and avoid single-use plastics. Fourth, take shorter showers and skip daily towel changes to save water and energy. Finally, support local businesses and farmers' markets, which reduces the carbon footprint from food and product imports. By making these small changes, travelers can enjoy their trips while protecting the environment."
+
+Analysis:
+
+- Strengths: Highly targeted, clear, and organized response. The specified tone makes the text engaging and customer-friendly.
+  
+- Limitations: Limited to exactly what the prompt specifies, which could omit details if they aren’t requested directly.
+	
+
+## Comparison of Responses:
+
+![image](https://github.com/user-attachments/assets/da23340a-89c8-4836-99e2-ed4450234527)
+
+
+
+## Conclusion
+
+Guided prompting delivered the most polished response aligned with the goal of informingcustomers in a friendly and structured way, making it ideal for  customer-focused reports.
+However, iterative prompting was helpful for adding detail when needed, while direct prompting was quick for generating general ideas.
 
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+
+
+
+
+
 
